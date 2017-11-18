@@ -13,3 +13,5 @@ Sistema Web para ensino dos conceitos de pesquisa operacional/programação line
 * Apesentar solução como um relatório de resultado.
 * Deve possibilitar a demonstração da solução passo-a-passo.
 * Tratar modelos com solução impossíveis ou ilimitadas.
+
+[EducaPlex](http://educaplex.000webhostapp.com)
