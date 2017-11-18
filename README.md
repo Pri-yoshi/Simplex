@@ -1,4 +1,4 @@
-# Simplex Web
+# EducaPlex Simplex Web
 **Trabalho Pesquisa Operacional<br>**
 Professor Ricardo Sabatine
 
