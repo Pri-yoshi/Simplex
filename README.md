@@ -5,6 +5,9 @@ Professor Ricardo Sabatine
 **Alunos:** <br>-Danilo Alves dos Santos RA: 55340-9
         <br>-Priscila Yoshie Duarte  RA: 34772-8
 
+**Link**
+[EducaPlex](http://educaplex.000webhostapp.com)
+
 **Regras**<br>
 Sistema Web para ensino dos conceitos de pesquisa operacional/programação linear e simplex.<br>
 * Permitir resolver um modelo de programação linear com objetivo de maximizar ou minimizar.
@@ -14,5 +17,4 @@ Sistema Web para ensino dos conceitos de pesquisa operacional/programação line
 * Deve possibilitar a demonstração da solução passo-a-passo.
 * Tratar modelos com solução impossíveis ou ilimitadas.
 
-**Link**
-[EducaPlex](http://educaplex.000webhostapp.com)
+
