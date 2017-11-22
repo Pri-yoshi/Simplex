@@ -21,6 +21,14 @@ Simplex é um algoritmo criado por George Dantzig que viabiliza a solução de m
 - GitHub
 - Servidor Web [EducaPlex](educaplex.000webhostapp.com)
 
+## Datas de entregas
+
+| Data | Onda |
+|------|------|
+| 30/10 | Cálculo Maximização e Demonstrativo passo a passo |
+| 03/11 | Cálculo Minimização e Entrada de dados dinâmica |
+| 16/11 | Análise de Sensibilidade e Manual de Instruções + Layout Interativo |
+| 22/11 | Tratamento de Solução impossível e Tratamento de Solução Ilimitada |
 
 ## Regras
 
