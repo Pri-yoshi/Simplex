@@ -5,8 +5,8 @@ Repositório para a implementação do algoritmo Simplex.
 Danilo Alves dos Santos RA: 55340-9<br>
 Priscila Yoshie Duarte  RA: 34772-8
 
-Trabalho Pesquisa Operacional
-6º Semestre BCC UNIVEM
+Trabalho Pesquisa Operacional<br>
+6º Semestre BCC UNIVEM<br>
 Professor Ricardo Sabatine
 
 Simplex é um algoritmo criado por George Dantzig que viabiliza a solução de muitos problemas da programação linear. Encontra boa aceitação em áreas onde diversas necessidades e restrições influenciam em um valor que precisa ser aumentado ou diminuído ao máximo. Problemas típicos para se resolver com o Simplex são os que buscam quantidades ideais de produtos a serem comercializados, com restrições referentes ao armazenamento e à fabricação dos mesmos.
